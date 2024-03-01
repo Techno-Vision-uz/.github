@@ -1,12 +1,37 @@
-## Hi there 👋
+![Techno Vision Logo](https://github.com/Techno-Vision-uz/.github/assets/99121169/a110490e-31d1-426d-96c3-be095fd03a21)
 
-<!--
+Hi there 👋! Welcome to Techno Vision - where innovation meets development.
 
-**Here are some ideas to get you started:**
+## 🚀 Quick Links
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Website](https://www.technovision.uz/)
+- [GitHub Organization](https://github.com/Techno-Vision-uz)
+- [Instagram](https://www.instagram.com/technovision.uz/)
+
+## 🌈 About Us
+
+Welcome to Techno Vision, a leading software development company. We turn your goals into reality with our cutting-edge software systems. Techno Vision provides innovative technology solutions to optimize and elevate your business.
+
+## 👩‍💻 How to Contribute
+
+- Take control of your workflow and shape your own development journey.
+- Bring your skills to exciting and challenging tasks, fostering professional growth.
+- Choose a flexible, hybrid, or remote working schedule that suits you.
+
+## 📚 Resources
+
+Explore our documentation and resources to get started with our projects:
+
+- [Documentation](https://github.com/Techno-Vision-uz)
+- [Project Wiki](https://github.com/Techno-Vision-uz)
+- [Code of Conduct](https://github.com/Techno-Vision-uz)
+
+## 🎉 Fun Facts
+
+Did you know?
+
+- Our team loves experimenting with cutting-edge technologies, and our favorite coding fuel is a good cup of coffee!
+- We believe in fostering a collaborative and inclusive environment where every team member's voice is heard and valued.
+- Our projects are fueled by the passion to create impactful solutions that not only meet but exceed our clients' expectations. We love turning challenges into opportunities!
+
+
